@@ -1,4 +1,4 @@
-# File-Sharing-Man
+# buddyPROJECT
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.
@@ -36,23 +36,23 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 ### Deploy in your VPS
 ````bash
 git clone git clone git clone https://github.com/buddyxy/buddyPROJECT
-cd File-Sharing-Man
+cd buddyPROJECT
 pip3 install -r requirements.txt
 cp sample_config.env config.env
 # edit config.env Anda dan isi VARS menggunakan nano config.env CTRL + S untuk menyimpan VARS Anda, 
-# gunakan CTRL + X untuk keluar dan kembali ke direktori File-Sharing-Man
+# gunakan CTRL + X untuk keluar dan kembali ke direktori File-Sharing-buddyPROJECT
 bash start
 cd File-Sharing-Man
 pip3 install -r requirements.txt
 cp sample_config.env config.env
 # edit config.env Anda dan isi VARS menggunakan nano config.env CTRL + S untuk menyimpan VARS Anda, 
-# gunakan CTRL + X untuk keluar dan kembali ke direktori File-Sharing-Man
+# gunakan CTRL + X untuk keluar dan kembali ke direktori File-sharing-buddyPROJECT
 bash start
 cd File-Sharing-Man
 pip3 install -r requirements.txt
 cp sample_config.env config.env
 # edit config.env Anda dan isi VARS menggunakan nano config.env CTRL + S untuk menyimpan VARS Anda, 
-# gunakan CTRL + X untuk keluar dan kembali ke direktori File-Sharing-Man
+# gunakan CTRL + X untuk keluar dan kembali ke direktori File-Sharing-buddyPROJECT
 bash start
 ````
 <details>
@@ -71,7 +71,7 @@ cd File-Sharing-buddyPROJECT
 pip3 install -r requirements.txt
 cp sample_config.env config.env
 # edit config.env Anda dan isi VARS menggunakan nano config.env CTRL + S untuk menyimpan VARS Anda, 
-# gunakan CTRL + X untuk keluar dan kembali ke direktori File-Sharing-Man
+# gunakan CTRL + X untuk keluar dan kembali ke direktori File-Sharing-buddyPROJECT
 bash start'>format</a> parsemode HTML 
 * `FORCE_SUB_MESSAGE` Opsional: Pesan Paksa Subscribe bot, Gunakan Format parsemode HTML
 * `FORCE_SUB_CHANNEL` Masukan ID dari Channel Untuk Wajib Subscribenya
